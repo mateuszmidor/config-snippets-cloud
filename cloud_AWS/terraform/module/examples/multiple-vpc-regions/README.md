@@ -8,7 +8,7 @@ The configuration in this directory creates a configuration for all vpc located 
 - Installed and configured AWS CLI
     - [installation](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html)
     - [configuration](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html)
-- Created VPC (or default VPC)
+- Existing VPC in each target region
 - Exported Kentik API credentials:
 
   ```shell
